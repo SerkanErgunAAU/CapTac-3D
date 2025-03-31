@@ -1,8 +1,8 @@
 Supplementary Material to:
-MultiTac: A Wireless Capacitive Tactile Modular Skin for 3D-Force
-Perception in Delicate Robotic Grasping
+CapTac3D: Modular Wireless Capacitive Tactile Skin
+for 3D Force Perception
 ###
-This repo contains
+This repo contains additional material to the paper.
 
 
 
